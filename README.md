@@ -8,10 +8,12 @@ scratch and recreate our published results by our same intermediary steps.
 
 ## Installation
 
-No installation is required; simply open the `.ipynb` via the `File` --> `Open
-notebook` option directly from
-[Github](https://github.com/deepmind/mathematics_conjectures) or from a copy
-stored locally or in Google Drive.
+No installation is required; the notebook files can be opened on the Colab site
+from a copy of these files uploaded from a local machine, saved in google drive
+or directly from this github repo. Alternatively they can be accessed via these links:
+
+* Knot theory - https://colab.sandbox.google.com/github/deepmind/mathematics_conjectures/blob/main/knot_theory.ipynb
+* Representation theory - https://colab.sandbox.google.com/github/deepmind/mathematics_conjectures/blob/main/representation_theory.ipynb
 
 ## Usage
 
@@ -32,4 +34,3 @@ Pre-trained weights and all data are licensed under licensed under the Creative
 Commons Attribution 4.0 International License. To view a copy of this license,
 visit http://creativecommons.org/licenses/by/4.0/ or send a letter to
 Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
-
